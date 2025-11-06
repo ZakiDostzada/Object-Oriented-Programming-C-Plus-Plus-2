@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/zakidostzada/Documents/GitHub/Object-Oriented-Programming-C-Plus-Plus/Lab 2/array'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z11printMemArrPKii, symObjAddr: 0x0, symBinAddr: 0x100003D24, symSize: 0xA0 }
+  - { offsetInCU: 0x2C66, offset: 0x2C66, size: 0x8, addend: 0x0, symName: __Z11printMemArrPKii, symObjAddr: 0x0, symBinAddr: 0x100003D24, symSize: 0xA0 }
+  - { offsetInCU: 0x2CB8, offset: 0x2CB8, size: 0x8, addend: 0x0, symName: __Z10incArrBy10Pii, symObjAddr: 0xA0, symBinAddr: 0x100003DC4, symSize: 0x60 }
+  - { offsetInCU: 0x2D0A, offset: 0x2D0A, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x100, symBinAddr: 0x100003E24, symSize: 0xE4 }
+...
